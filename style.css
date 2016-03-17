@@ -1,0 +1,28 @@
+Body {
+	Background-color: #f4a017;
+	Margin: 0;
+}
+#content img.cupcake {
+	width: 10%;
+	margin: center;
+}
+ul{
+color: black;
+font-family: "Courier New";
+font-size: 30px;
+border: #00bff3;
+border-style: outset;
+background-color: #00bff3;
+text-align: center;
+}
+li {
+display: inline;
+}
+a{
+color: Black;
+text-decoration: none;
+}
+h1 {
+text-align: center;
+color: #ec008c;
+}
