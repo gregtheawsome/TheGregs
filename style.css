@@ -8,7 +8,7 @@ Body {
 }
 ul{
 color: black;
-font-family: "Courier New";
+font-family: "DK Jambo";
 font-size: 30px;
 border: #00bff3;
 border-style: outset;
@@ -24,5 +24,5 @@ text-decoration: none;
 }
 #logo{
 	width:16%;
-	margin: 0px 0px 0px 850px;
+	margin: 0px 0px 0px 815px;
 }
