@@ -3,7 +3,7 @@ Body {
 	Margin: 0;
 }
 #content img.cupcake {
-	width: 10%;
+	width: 15%;
 	margin: center;
 }
 ul{
@@ -22,7 +22,7 @@ a{
 color: Black;
 text-decoration: none;
 }
-h1 {
-text-align: center;
-color: #ec008c;
+#logo{
+	width:16%;
+	margin: 0px 0px 0px 850px;
 }
