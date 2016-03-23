@@ -3,7 +3,6 @@ Body {
 	Margin: 0;
 }
 #content img.cupcake {
-	width: 15%;
 	margin: center;
 }
 ul{
@@ -11,7 +10,7 @@ color: black;
 font-family: "DK Jambo";
 font-size: 30px;
 border: #00bff3;
-border-style: outset;
+border-style: solid;
 background-color: #00bff3;
 text-align: center;
 }
