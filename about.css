@@ -34,3 +34,25 @@ margin: 6px 0px 0px 815px;
 footer{
 	text-align: center;	
 }
+
+p {
+	text-align: center;
+	font-family: "DK Jambo";
+	font-size: 20px;
+	color: #ec008c;
+}
+
+a:hover {
+	background: #ec008c;
+}
+h2{
+	color: #00bbf3;
+	letter-spacing: 5px;
+	font-family: "DK Jambo";
+	border: solid black;
+	position: absolute;
+	top: 430px;
+	left: 39%;
+	right: 40%;
+	height: 26px;
+}
