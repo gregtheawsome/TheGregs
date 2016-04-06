@@ -29,3 +29,7 @@ footer{
 	text-align:center;
 	margin-top: -19px;
 }
+
+a:hover {
+	background: #ec008c;
+}
