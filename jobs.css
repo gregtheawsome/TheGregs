@@ -35,3 +35,7 @@ display: block;
 footer{
 	text-align: center;	
 }
+
+a:hover {
+	background: #ec008c;
+}
