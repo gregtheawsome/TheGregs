@@ -1,0 +1,37 @@
+Body {
+	Background-color: #990066;
+	Margin: 0;
+}
+
+#content img.cupcake {
+	margin: center;
+}
+
+ul{
+color: black;
+font-family: "DK Jambo";
+font-size: 30px;
+border: #005ce6;
+border-style: solid;
+background-color: #00bff3;
+text-align: center;
+}
+
+li {
+display: inline;
+}
+
+a{
+color: Black;
+text-decoration: none;
+}
+#logo{
+width: 16%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+footer{
+	text-align: center;	
+}
