@@ -1,5 +1,5 @@
 Body {
-	Background-color: #f4a017;
+	Background-color: #ff8080;
 	Margin: 0;
 }
 
@@ -11,7 +11,7 @@ ul{
 color: black;
 font-family: "DK Jambo";
 font-size: 30px;
-border: #00bff3;
+border: #005ce6;
 border-style: solid;
 background-color: #00bff3;
 text-align: center;
@@ -24,6 +24,17 @@ display: inline;
 a{
 color: Black;
 text-decoration: none;
+}
+
+#logo{
+width: 16%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+footer{
+	text-align: center;	
 }
 
 #logo{
