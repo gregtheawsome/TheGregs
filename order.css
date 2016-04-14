@@ -1,6 +1,7 @@
-Body {
-	Background-color: #dd99ff;
+body{
+	background-color: #dd99ff;
 	Margin: 0;
+	
 }
 
 #content img.cupcake {
@@ -8,33 +9,57 @@ Body {
 }
 
 ul{
-color: black;
-font-family: "DK Jambo";
-font-size: 30px;
-border: #005ce6;
-border-style: solid;
-background-color: #00bff3;
-text-align: center;
+	color: black;
+	font-family: "DK Jambo";
+	font-size: 30px;
+	border: #00bff3;
+	border-style: solid;
+	background-color: #00bff3;
+	text-align: center;
 }
 
 li {
-display: inline;
+	display: inline;
+}
+a{
+	color: Black;
+	text-decoration: none;
 }
 
-a{
-color: Black;
-text-decoration: none;
-}
 
 #logo{
-width: 16%;
-margin-left: auto;
-margin-right: auto;
-display: block;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 14%;
+}
+footer{
+	text-align: center;
+	margin-top: -19px;
 }
 
-footer{
-	text-align: center;	
+a:hover {
+	background: #ec008c;
+}
+
+.button{
+    text-align: center;
+    background-color: #00bff3;
+    border-radius: 40%;
+    font-family: "DK Jambo";
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin-left: 841px;
+    margin-right: 841px;
+}
+
+.button:hover {
+    background-color: #ec008c;
+    color: white;
 }
 
 h1{
@@ -43,13 +68,4 @@ h1{
 	Color: #ec008c;
 	text-decoration: underline;
 	font-size: 50px;
-}
-
-a:hover {
-	background: #ec008c;
-}
-#create{
- border: black;
- border-style: solid;
- position: absolute;
 }
