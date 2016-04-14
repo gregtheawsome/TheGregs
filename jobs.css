@@ -39,3 +39,26 @@ footer{
 a:hover {
 	background: #ec008c;
 }
+
+.button{
+background-color: #00bff3;
+border: none;
+font-family: "DK Jambo";
+font-size: 30px;
+text-align: center;
+-webkit-transition-duration: 0.4s; 
+transition-duration: 0.4s;
+margin: 0px 841px 0px 841px;
+}
+
+.button:hover{
+background-color: #ffe6ff;
+color: #990066;
+}
+
+h1{
+	font-family: "DK Jambo";
+	text-align: center;
+	Color: #000000;
+	font-size: 50px;
+}
