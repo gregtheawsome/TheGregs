@@ -1,45 +1,47 @@
-Body {
-	Background-color: #000099;
+body{
+	background-color: #000099;
 	Margin: 0;
+	
 }
 
 #content img.packaging {
+	margin-left: 576px;
 }
 
 ul{
-color: black;
-font-family: "DK Jambo";
-font-size: 30px;
-border: #005ce6;
-border-style: solid;
-background-color: #00bff3;
-text-align: center;
+	color: black;
+	font-family: "DK Jambo";
+	font-size: 30px;
+	border: #00bff3;
+	border-style: solid;
+	background-color: #00bff3;
+	text-align: center;
 }
 
 li {
-display: inline;
+	display: inline;
+}
+a{
+	color: Black;
+	text-decoration: none;
 }
 
-a{
-color: Black;
-text-decoration: none;
-}
 
 #logo{
-width: 16%;
-margin-left: auto;
-margin-right: auto;
-display: block;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 14%;
+}
+footer{
+	text-align: center;
 }
 
-footer{
-	text-align: center;	
-}
 a:hover {
 	background: #ec008c;
 }
 
 h2{
-color: white;
-text-align: center;
-}
+	color: white;
+	text-align: center;
+{
