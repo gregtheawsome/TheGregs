@@ -1,0 +1,11 @@
+Body {
+	Background-color: #dd99ff;
+	Margin: 0;
+}
+
+#logo{
+width: 16%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
