@@ -1,7 +1,6 @@
-body{
-	background-color: #dd99ff;
+Body {
+	Background-color: #dd99ff;
 	Margin: 0;
-	
 }
 
 #content img.cupcake {
@@ -9,57 +8,48 @@ body{
 }
 
 ul{
-	color: black;
-	font-family: "DK Jambo";
-	font-size: 30px;
-	border: #00bff3;
-	border-style: solid;
-	background-color: #00bff3;
-	text-align: center;
+color: black;
+font-family: "DK Jambo";
+font-size: 30px;
+border: #005ce6;
+border-style: solid;
+background-color: #00bff3;
+text-align: center;
 }
 
 li {
-	display: inline;
-}
-a{
-	color: Black;
-	text-decoration: none;
+display: inline;
 }
 
+a{
+color: Black;
+text-decoration: none;
+}
 
 #logo{
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	width: 14%;
-}
-footer{
-	text-align: center;
-	margin-top: -19px;
+width: 16%;
+margin-left: auto;
+margin-right: auto;
+display: block;
 }
 
-a:hover {
-	background: #ec008c;
+footer{
+	text-align: center;	
 }
 
 .button{
-    text-align: center;
-    background-color: #00bff3;
-    border-radius: 40%;
-    font-family: "DK Jambo";
-    border: none;
-    text-decoration: none;
-    font-size: 16px;
-    display: inline-block;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    margin-left: 841px;
-    margin-right: 841px;
+background-color: #00bff3;
+border-radius: 45%;
+font-family: "DK Jambo";
+font-size: 16px;
+text-align: center;
+-webkit-transition-duration: 0.4s; 
+transition-duration: 0.4s;
 }
 
-.button:hover {
-    background-color: #ec008c;
-    color: white;
+.button:hover{
+background-color: #ec008c;
+color: white;
 }
 
 h1{
@@ -68,4 +58,9 @@ h1{
 	Color: #ec008c;
 	text-decoration: underline;
 	font-size: 50px;
+}
+
+
+a:hover {
+	background: #ec008c;
 }
