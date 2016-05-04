@@ -9,3 +9,9 @@ margin-left: auto;
 margin-right: auto;
 display: block;
 }
+
+p {
+	font-family: "DK Jambo";
+	font-size: 30px;
+	color: #33001a;
+}
