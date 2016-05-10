@@ -45,6 +45,8 @@ font-size: 16px;
 text-align: center;
 -webkit-transition-duration: 0.4s; 
 transition-duration: 0.4s;
+display: block;
+margin: auto;
 }
 
 .button:hover{
